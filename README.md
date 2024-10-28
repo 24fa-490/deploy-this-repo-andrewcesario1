@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-https://vercel.com/api/toolbar/link/deploy-this-repo-andrewcesario1.vercel.app?via=deployment-domains-list&p=1&page=/
+https://deploy-this-repo-andrewcesa-git-04c561-andrewcesario1s-projects.vercel.app/
 
 
