@@ -13,7 +13,7 @@
 <button on:click={() => {goto('/fromDB')}}>Use Database</button>
 
 
-<p>Step 2: See how to create Svelte components</p>
+<p>Step 3: See how to create Svelte components</p>
 <span class=note>(uses db, so create the .env file as above)</span>
 <br/>
 <button on:click={() => {goto('/fromDBandComponents')}}>Use Components</button>
